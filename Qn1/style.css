@@ -1,0 +1,13 @@
+body {
+    padding: 0px;
+    margin: 10px;
+    text-align: center;
+}
+
+innerContainer {
+    padding: 40px;
+}
+
+button {
+    padding: 10px;
+}
